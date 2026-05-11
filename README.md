@@ -1,4 +1,4 @@
-#Portfolio Draft
+# Portfolio Draft
 
 Aquí va una explicación **clara, visual y práctica** de **cómo se posicionan los elementos en una página web**, especialmente tus `<section>` y otros bloques.  
 Esto es clave para que entiendas **cómo controlar dónde va cada cosa** en tu portfolio.
